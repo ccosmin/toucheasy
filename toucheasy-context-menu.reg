@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\openwtoucheasy]
+@="&Touch File"
+"icon"="C:\\local\\bin\\TouchEasy.exe"
+
+[HKEY_CLASSES_ROOT\*\shell\openwtoucheasy\command]
+@="C:\\local\\bin\\TouchEasy.exe \"%1\""
+"icon"="C:\\local\\bin\\TouchEasy.exe"
